@@ -50,9 +50,12 @@ Windows:
 ```powershell
 python run.py
 ```
+## Access API
 
-##Access API
+Swagger Documentation:  
 http://localhost:8000/docs
+
+Base URL:  
+http://localhost:8000/
+
 ---
-
-
