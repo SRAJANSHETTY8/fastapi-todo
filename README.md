@@ -8,7 +8,6 @@ This project allows users to create, read, update, and delete tasks with ease.
 - **Backend:** FastAPI (Python)
 - **Database:** SQLite (with SQLAlchemy ORM)
 - **Purpose:** Manage tasks (todos) with CRUD operations
-- **No schemas.py needed:** Pydantic models are defined inside `app.py`
 
 ---
 
