@@ -26,19 +26,16 @@ This project allows users to create, read, update, and delete tasks with ease.
 
 ---
 
-## Project Structure
 fastapi-todo/
 │
 ├── api/
-│ ├── app.py 
-│ ├── database.py 
-│ └─── models.py
-│ 
+│   ├── app.py
+│   ├── database.py
+│   └── models.py
 │
-├── todos.db 
+├── todos.db
 ├── run.py
 └── requirements.txt
-
 Install dependencies:
 Windows:
 ```powershell
@@ -52,5 +49,6 @@ python run.py
 
 ##Access API
 http://localhost:8000/docs
+---
 
 
